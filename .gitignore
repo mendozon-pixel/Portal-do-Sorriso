@@ -1,4 +1,0 @@
-node_modules/     ← Ignora a pasta "node_modules" inteira
-*.log             ← Ignora TODOS os arquivos que terminam com .log
-.env              ← Ignora o arquivo específico ".env"
-!importante.log   ← EXCEÇÃO: NÃO ignore este arquivo (mesmo batendo com *.log)
